@@ -1,1 +1,2 @@
-# Learning git commands and usecases
+# Learning git commands & usecases
+
