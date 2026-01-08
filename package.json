@@ -1,0 +1,22 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "Learning everything about git & github",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaiobrunobm/git.git"
+  },
+  "keywords": [],
+  "author": "Kaio Bruno <bmkaiobruno@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
