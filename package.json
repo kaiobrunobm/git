@@ -2,7 +2,9 @@
   "name": "git",
   "version": "1.0.0",
   "description": "Learning everything about git & github",
-  "scripts": {},
+  "scripts": {
+    "start": "node src/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kaiobrunobm/git.git"
