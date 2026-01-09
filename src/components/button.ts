@@ -1,5 +1,5 @@
 const buttonText = () => {
-  return 'button'
+  return 'this is a button'
 }
 
 export default buttonText;
